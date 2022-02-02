@@ -35,6 +35,7 @@ I am still a student
   <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
   <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
   <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
 </p>
 </details>
 
