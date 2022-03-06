@@ -21,7 +21,7 @@ I am still a student
   </a>
 </p>
 <p align="center">
-<a href="https://facebook.com/azyansahxd" target="_blank">
+<a href="https://facebook.com/xnia" target="_blank">
     <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
   </a>
 </p>
@@ -36,8 +36,7 @@ I am still a student
   <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
   <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
-  <img alt="nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs">
-</p>
+ </p>
 </details>
 
 <details align="center"><summary><b>Github Statistics 💤</b></summary><br>
