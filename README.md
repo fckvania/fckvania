@@ -5,8 +5,8 @@
 Hi my name is Vania and
 I am still a student
 
-• I'm 19 y.o
-• I'm currently focusing on Javascript,
+• I'm 20 y.o
+• I'm currently focusing on TypeScript,
   html & css
 • Programming is just my hobbies
 ```
@@ -36,6 +36,7 @@ I am still a student
   <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
   <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
+  <img alt="nextjs" src="https://img.shields.io/badge/Nextjs-000000?style=for-the-badge&logo=nextjs">
 </p>
 </details>
 
