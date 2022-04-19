@@ -45,7 +45,7 @@ I am still a student
 <a href="fckvania"><img src="https://komarev.com/ghpvc/?username=fckvania&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="fckvania" /></a>
 <br>
 <a href="https://github.com/fckvania"><img src="https://github-readme-stats.vercel.app/api?username=fckvania&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
-<a href="https://github.com/fckvania"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<a href="https://github.com/fckvania"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fckvania&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fckvania&bg_color=071A2C" />
 <a href="https://github.com/fckvania/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fckvania&theme=onedark" /></a>
 </div>
