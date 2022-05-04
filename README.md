@@ -41,7 +41,7 @@ I am still a student
   <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust">
   <img alt="java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java">
   <img alt="c++" src="https://img.shields.io/badge/-c++-000000?style=for-the-badge&logo=c%2B%2B">
-  <img alt="c" src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c#">
+  <img alt="kotlin" src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin">
  </p>
 </details>
 
