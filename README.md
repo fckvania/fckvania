@@ -38,6 +38,9 @@ I am still a student
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
   <img alt="go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go">
   <img alt="ruby" src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby">
+  <img alt="rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust">
+  <img alt="java" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java">
+  <img alt="c++" src="https://img.shields.io/badge/c++-000000?style=for-the-badge&logo=c++">
  </p>
 </details>
 
