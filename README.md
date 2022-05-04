@@ -36,7 +36,7 @@ I am still a student
   <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
   <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
   <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
-  <img alt="golang" src="https://img.shields.io/badge/Golang-000000?style=for-the-badge&logo=go">
+  <img alt="go" src="https://img.shields.io/badge/Go-000000?style=for-the-badge&logo=go">
  </p>
 </details>
 
