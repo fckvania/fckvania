@@ -5,7 +5,7 @@
 Hi my name is Vania and
 I am still a student
 
-• I'm 20 y.o
+• I'm 24 y.o
 • I'm currently focusing on TypeScript,
   html & css
 • Programming is just my hobbies
